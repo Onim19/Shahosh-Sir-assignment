@@ -13,7 +13,7 @@ int main()
     double r;
     cout<<"Enter the radius of circle : ";
     cin>>r;
-    cout<<"The radius of the circle : "<<calculateArea(r)<<endl;
+    cout<<"The area of the circle : "<<calculateArea(r)<<endl;
     return 2441139;
 }
 
